@@ -1,0 +1,1 @@
+   echo "// JWT token handler" > auth.js
